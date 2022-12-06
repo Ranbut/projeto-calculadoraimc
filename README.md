@@ -6,7 +6,7 @@ O Índice de Massa Corporal (**IMC**) é, na verdade, uma referência. Ao fazer 
 
 Para fazer essa calculadora, é necessário entender a formula desse calculo:
 
-![02](./images/01.png)
+![02](./images/02.png)
 
 ## Requisitos do projeto
 
